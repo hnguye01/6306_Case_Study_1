@@ -12,7 +12,7 @@ The purpose of this repository is to share our collaborative work in order to co
 ## Contributors
 Please contact any of the members below: 
  - Jaclyn Coate: jcoate@smu.edu 
- - Huy Hoang Nguyen: hoangnguyen@smu.edu 
+ - Huy Hoang Nguyen: hoangnguyen@smu.edu  
    Homepage:  [http://www.hoangnguyen.us]
  
 
