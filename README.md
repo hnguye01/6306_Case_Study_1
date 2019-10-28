@@ -16,8 +16,8 @@ Please contact any of the members below:
   
  
 
- [Final Presentations]: <https://github.com/JaclynCoate/6306_Case_Study_1/tree/master/presentations/finalpresentations>
- [CodeBook]: <https://github.com/JaclynCoate/6306_Case_Study_1/tree/master/codebook>
- [Case Study Requirements]: <https://github.com/JaclynCoate/6306_Case_Study_1/tree/master/case_study_req>
- [Miscellaneous]: <https://github.com/JaclynCoate/6306_Case_Study_1/tree/master/Misc> 
+ [Final Presentations]: <https://github.com/hnguye01/6306_Case_Study_1/tree/master/presentations>
+ [CodeBook]: <https://github.com/hnguye01/6306_Case_Study_1/tree/master/codebook>
+ [Case Study Requirements]: <https://github.com/hnguye01/6306_Case_Study_1/tree/master/case_study_req>
+ [Miscellaneous]: <https://github.com/hnguye01/6306_Case_Study_1/tree/master/Misc> 
  
