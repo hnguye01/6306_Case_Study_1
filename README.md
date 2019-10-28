@@ -20,4 +20,4 @@ Please contact any of the members below:
  [CodeBook]: <https://github.com/JaclynCoate/6306_Case_Study_1/tree/master/codebook>
  [Case Study Requirements]: <https://github.com/JaclynCoate/6306_Case_Study_1/tree/master/case_study_req>
  [Miscellaneous]: <https://github.com/JaclynCoate/6306_Case_Study_1/tree/master/Misc> 
- [http://www.hoangnguyen.us] <http://www.hoangnguyen.us>
+ [http://www.hoangnguyen.us]: <http://www.hoangnguyen.us>
