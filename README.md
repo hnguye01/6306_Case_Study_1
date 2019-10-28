@@ -13,7 +13,7 @@ The purpose of this repository is to share our collaborative work in order to co
 Please contact any of the members below: 
  - Jaclyn Coate: jcoate@smu.edu 
  - Huy Hoang Nguyen: hoangnguyen@smu.edu 
-   Website: [http://www.hoangnguyen.us] <http://www.hoangnguyen.us?
+   Website: [http://www.hoangnguyen.us] <http://www.hoangnguyen.us>
  
 
  [Final Presentations]: <https://github.com/JaclynCoate/6306_Case_Study_1/tree/master/presentations/finalpresentations>
