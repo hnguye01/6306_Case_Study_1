@@ -13,10 +13,11 @@ The purpose of this repository is to share our collaborative work in order to co
 Please contact any of the members below: 
  - Jaclyn Coate: jcoate@smu.edu 
  - Huy Hoang Nguyen: hoangnguyen@smu.edu 
-   Website:  <http://www.hoangnguyen.us>
+   Homepage:  [http://www.hoangnguyen.us]
  
 
  [Final Presentations]: <https://github.com/JaclynCoate/6306_Case_Study_1/tree/master/presentations/finalpresentations>
  [CodeBook]: <https://github.com/JaclynCoate/6306_Case_Study_1/tree/master/codebook>
  [Case Study Requirements]: <https://github.com/JaclynCoate/6306_Case_Study_1/tree/master/case_study_req>
- [Miscellaneous]: <https://github.com/JaclynCoate/6306_Case_Study_1/tree/master/Misc>         
+ [Miscellaneous]: <https://github.com/JaclynCoate/6306_Case_Study_1/tree/master/Misc> 
+ [http://www.hoangnguyen.us] <http://www.hoangnguyen.us>
