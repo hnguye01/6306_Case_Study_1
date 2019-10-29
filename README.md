@@ -1,4 +1,4 @@
-# DDS 6301: Budweiser: Case Study 1
+# DDS 6306: Budweiser: Case Study 1
 
 ## Introduction
 The purpose of this repository is to share our collaborative work in order to complete our MSDS DDS 6301 Midterm Case Study project. We analyzed the given data sets on style, median IBU, and mean ABV all by region. The focus of our project was to use the given data sets in order to advise our company (Budweiser) on how to compete with the growing microbrewery industry by tailoring new beer releases by region with the most common styles, mean ABVs, and median IBUs in the market.
